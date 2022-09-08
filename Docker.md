@@ -901,7 +901,7 @@ docker run --name mysqlserver --restart=always --privileged=true -v $PWD/conf:/e
 
 ```shell
 docker exec -it mysqlserver /bin/bash # 也可以把容器名"mysqlserver"改为容器id
-q
+mysql -uroot -p
 #设置了初始化密码是123456
 ```
 

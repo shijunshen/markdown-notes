@@ -1,0 +1,14 @@
+# 语句
+
+```mysql
+SELECT
+  IP,
+  INTERFACE_TYPE,
+  MANUFACTURE_NAME,
+  VENDOR_PART_NUMBER,
+  count(MANUFACTURE_NAME) as count
+FROM module_information
+group by MANUFACTURE_NAME,INTERFACE_TYPE,IP,VENDOR_PART_NUMBER
+order by count(MANUFACTURE_NAME) desc
+```
+
