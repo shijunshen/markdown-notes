@@ -52,7 +52,7 @@ former：adj.以前的
 
 over the course of：在……的过程中
 
-- over the course of his life：在他一生中
+- throughout his life：在他一生中
 
 ==profound：adj.深刻的，强烈的==
 
@@ -460,7 +460,7 @@ connotation：n.内涵意义，联想意义
 - So do/be：……也
 - When I cast my mind back over recent memories：
 - If my memory serves：如果我没记错的话
-- If it happens every day,it all adds up：积少成多
+- If it happens every day, it all adds up：积少成多
 
 ## 短语
 
@@ -502,23 +502,23 @@ taxi,phone,
 
 ## 词汇：
 
-spend：expenditure，amount
+spend： expenditure， amount
 
 three categories of
 
 proportion（份额）：percentage可数，
 
-表示程度：noticeable，apparent，significant，slightly（轻微地），marked，considerable（相当大的），steadily（稳步地，逐渐地）
+表示程度：noticeable， apparent， significant， slightly（轻微地）， marked， considerable（相当大的）， steadily（稳步地，逐渐地）
 
-respectively（分别地）：separately
+respectively（分别地）： separately
 
-大约的：around，approximately，roughly
+大约的：around， approximately， roughly
 
-number：figure
+number： figure
 
-but：however，whereas
+but： however， whereas
 
-old：aged
+old： aged
 
 overall：总的，全面的，所有的
 
@@ -556,7 +556,7 @@ dock：n.码头，月台，泊位，v.停船进港，靠码头
 
 The line graph compares …… in terms of ……
 
-company A produced …… ，while company B and C produced …… and …… respectively
+company A produced …… ， while companies B and C produced …… and …… respectively
 
 
 
@@ -608,7 +608,7 @@ distinct：不同的，有区别的，清楚的
 
 final steps
 
-an the …… stage
+and the …… stage
 
 a significant rise
 
@@ -674,13 +674,266 @@ severity：严重性
 
 rehabilitation program：改造期
 
-- rehabilitation centre/juvenile hall：少管所
+- rehabilitation center/juvenile hall：少管所
 
 sentence：判决，判刑
 
 be brought to justice：绳之以法
 
 be given harsh punishment：受到严惩
+
+
+
+
+
+## Omar
+
+###教育类：
+
+specialized
+
+competitiveness：竞争力
+
+depressed：
+
+interest：兴趣，利益
+
+- interest me a lot
+
+optional courses：选修课
+
+domestic：国内的
+
+open-minded——short-minded
+
+
+
+###科技类：
+
+physical store：实体店
+
+convenient：方便的
+
+flexible
+
+efficient
+
+affordable
+
+cost-effective
+
+without……restrictions
+
+enable
+
+deceptive
+
+false
+
+eexaggerating
+
+misleading
+
+desirable
+
+幸福感：
+
+- happiness
+- well-being
+
+monopoly：垄断
+
+be forced to
+
+financial support
+
+not mature intellectually/emotionally/mentally
+
+self-disciplined：自律的
+
+technological innovation/advancement
+
+productive/efficient
+
+competitive
+
+emerging industries：新兴行业
+
+
+
+### 政府类：
+
+tax revenue
+
+urgent/pressing problem
+
+impractical
+
+unpredictable
+
+greenhouse gas emissions
+
+global warming
+
+natural disasters
+
+minority language
+
+endangered
+
+national identity
+
+sense of belonging
+
+United
+
+dominant
+
+disadvantaged people
+
+pension subsidies
+
+globalized
+
+closely associated with
+
+reputation&image
+
+responsible
+
+prosperity
+
+foreign investments
+
+
+
+### 媒体类：
+
+distinguish right from wrong
+
+be misled
+
+domestic violence
+
+advertising industry
+
+job opportunities
+
+relaxation
+
+documentary
+
+distractive
+
+concentrate
+
+adversely influence
+
+isolated
+
+unsociable
+
+violent element
+
+
+
+### 国际类：
+
+educational resources 
+
+healthcare facilities
+
+transportation network
+
+financially independent
+
+
+
+### 犯罪类：
+
+家庭原因
+
+社会原因
+
+个人原因
+
+set good examples
+
+habitual offenders
+
+potentiao criminals
+
+victims
+
+rehabilitation
+
+commit crimes
+
+
+
+### 文化类：
+
+author
+
+director
+
+blogger
+
+subjective
+
+personal
+
+unreliable
+
+trustworthy
+
+deeper and better understanding
+
+outdated
+
+old-fashioned
+
+allocate
+
+tourist attractions
+
+tax revenue
+
+popularity
+
+better-known
+
+image/reputation
+
+
+
+### 环境类：
+
+disposable products
+
+rubbish
+
+call for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
