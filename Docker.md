@@ -684,26 +684,71 @@ vim /opt/alertmanager/alertmanager.yml
 如下：
 
 ```yaml
-global: # 全局配置
-  resolve_timeout: 5m  # 处理超时时间，默认为5min
-  smtp_from: '916933425@qq.com'  # 邮件发送地址
-  smtp_smarthost: 'smtp.qq.com:465'  # 邮箱SMTP 服务地址
-  smtp_auth_username: '916933425@qq.com'  # 邮件发送地址用户名
-  smtp_auth_password: '授权码'  # 邮件发送地址授权码
+global:
+  resolve_timeout: 5m
+  smtp_smarthost: 'eng-smtp.calix.local:25'
+  smtp_from: 'Prometheus@calix.com'
+  smtp_auth_username: 'calix'
+  smtp_auth_password: 'Calix123'
   smtp_require_tls: false
-  smtp_hello: 'qq.com'
-route:  # 设置报警的分发策略
-  group_by: ['alertname']
-  group_wait: 20s  #  最初即第一次等待多久时间发送一组警报的通知
-  group_interval: 5m  # 在发送新警报前的等待时间
-  repeat_interval: 5m  # 发送重复警报的周期 对于email配置中，此项不可以设置过低，否则将会由于邮件发送太多频繁，被smtp服务器拒绝
-  receiver: 'email'
-receivers:  # 配置告警消息接受者信息
-- name: 'email'
+  
+
+route:
+  group_by: ['IP','alertname']
+  group_wait: 20s
+  group_interval: 5m
+  repeat_interval: 30m
+  receiver: Test
+  routes:
+    - match:
+        IP: 10.245.48.240|10.245.48.28
+      receiver: West_lake
+    - match:
+        IP: 10.245.48.21|10.245.48.22|10.245.48.23
+      receiver: LHotse
+    - match:
+        IP: 10.245.48.25|10.245.48.30
+      receiver: Potala
+    - match:
+        IP: 10.245.48.26|10.245.48.29
+      receiver: Purple_mountain
+    - match:
+        IP: 10.247.19.4|10.247.19.5|10.247.19.6|10.247.19.7|10.247.19.8|10.247.19.9|10.247.19.10|10.247.19.13|10.247.19.14|10.247.19.15
+      receiver: City_fibra
+      
+receivers:
+- name: 'Test'
   email_configs:
-  - to: '916933425@qq.com'  # #邮件接收地址
+  - to: 'corey.shi@calix.com,916933425@qq.com'
     send_resolved: true
-inhibit_rules:  # 抑制规则配置
+
+- name: 'West_lake'
+  email_configs:
+  - to: 'sean.wang@calix.com,sam.chen@calix.com'
+    send_resolved: true
+
+- name: 'City_fibra'
+  email_configs:
+  - to: 'paul.zhang@calix.com,sam.chen@calix.com'
+    send_resolved: true
+    
+- name: 'LHotse'
+  email_configs:
+  - to: 'philip.chen@calix.com,sam.chen@calix.com'
+    send_resolved: true
+
+- name: 'Potala'
+  email_configs:
+  - to: 'lincoln.yu@calix.com,sam.chen@calix.com'
+    send_resolved: true
+
+- name: 'Purple_mountain'
+  email_configs:
+  - to: 'jerry.wu@calix.com,sam.chen@calix.com'
+    send_resolved: true
+
+
+inhibit_rules:
   - source_match:
       severity: 'critical'
     target_match:
@@ -725,10 +770,10 @@ docker run -itd --name alertmanager -p 9093:9093 -v /opt/alertmanager:/etc/alert
 global:
   resolve_timeout: 5m
   # smtp配置
-  smtp_from: "123456789@qq.com"
-  smtp_smarthost: 'smtp.qq.com:465'
-  smtp_auth_username: "123456789@qq.com"
-  smtp_auth_password: "auth_pass"
+  smtp_from: "123456789@qq.com"	 # 邮件发送地址
+  smtp_smarthost: 'smtp.qq.com:465'	# 邮箱SMTP 服务地址
+  smtp_auth_username: "123456789@qq.com" # 邮件发送地址用户名
+  smtp_auth_password: "auth_pass"	# 邮件发送地址授权码
   smtp_require_tls: true
 # email、企业微信的模板配置存放位置，钉钉的模板会单独讲如果配置。
 templates:
