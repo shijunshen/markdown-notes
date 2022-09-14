@@ -63,3 +63,14 @@ nohup python -u Main.py >/dev/null 2>error.log  2>&1 &  #只记录异常日志
 ```
 
 [(1条消息) linux后台运行python程序_遂顺自然的博客-CSDN博客_linux 后台运行python](https://blog.csdn.net/weixin_44366822/article/details/121207690)
+
+
+
+# 常用命令
+
+## 查看端口占用
+
+```shell
+netstat -tunlp | grep 端口号
+```
+
