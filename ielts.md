@@ -708,7 +708,7 @@ open-minded——short-minded
 
 
 
-###科技类：
+### 科技类：
 
 physical store：实体店
 
@@ -915,31 +915,103 @@ rubbish
 
 call for
 
+voluntary service
+
+make a huge difference
 
 
 
+### 青少年类：
+
+charity organization
+
+drug/alcohol/violence
+
+celebrity/superstar
+
+fame/profit/wealth
+
+values
 
 
 
+### 工作类：
+
+emerging
+
+update
+
+competitiveness
+
+promotion prospect
+
+loyal/unreliable
+
+job-hopping
+
+absence
 
 
 
+### 城市类：
+
+car exhaust gas emissions
+
+suburban areas
+
+ 
+
+### 老龄化类：
 
 
 
+### 最佳类：
 
 
 
+### 语法句型：
 
+- 在我看来：
+  - in my opinion = from my perspective
+  - dominance = the dominant status/role
+  - be viewed in a positive light
 
+- 一起努力：work together = make joint efforts = join forces
 
+- 全世界的国家：all the country worldwide
+- 各自努力：work individually/separately
+- 而不是：
+  - rather than：与前面保持一致
+  - instead of：+ 名词/动名词
 
+- 增强了人们的社交网：strengthen people's social bonds
+- 把A和B隔离开来：isolate A from B
 
+- 越来越多：an increasing number of/ a growing number of
+  - 越来越重要：an increasingly important
+- 拆除：demolish、dismantle、knock down
+- 阻碍：hinder
+- the continuous/excessive/extensive use of
+- chemicals / pesticides / fungicide / insecticide
+- agricultural crops
+- pose a threat to / threaten
 
-
-
-
-
+- 人力资源：human resources
+- 被认为是：be regarded/considered as
+- 持续的经济繁荣：sustainable economic prosperity
+- 资产：asset
+- 交通堵塞：traffic congestion
+- 高品质生活：high quality life
+- 面临严峻的社会问题：be confronted with / face serious social problems
+- environmental pollution
+- daily communication
+- disturbance and damage
+- despite/ although
+- is estimated to account for：据估计占有
+- most of the world's most developed countries：世界大多数发达国家
+- energy-using vehicles
+- 人际交往：interpersonal communication/interaction ,  interpersonal/social skills
+- 沉迷于：indulge oneself in / be addicted to 
 
 
 
