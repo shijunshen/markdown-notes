@@ -446,7 +446,97 @@ connotation：n.内涵意义，联想意义
 
 
 
+## 9.17
 
+shuttle service：n.短程运输，往返大巴服务
+
+complementary： adj.补充的
+
+- complementary survice：补充服务
+
+air-conditioned：adj.备有空调装置的
+
+bear with me just a moment：等我一会儿
+
+en-suite：adj.带浴室的
+
+sun bed：日光浴床位
+
+tournament：锦标赛
+
+brush up：复习，提高
+
+partake in：参加
+
+getaway：n.短假；逃走
+
+succulent：adj.多汁的；n.肉质植物
+
+tropical：热带的；（天气）湿热的
+
+waterproof：防水的
+
+exacerbate：使加剧，恶化
+
+etcetera：等等
+
+lessen：使减少
+
+abominable：讨厌的
+
+marginal：adj.小的，微不足道的
+
+discard：扔掉，丢弃
+
+pollen：花粉
+
+pollination：n.授粉[作用]
+
+humble：谦虚的
+
+starve：挨饿
+
+first-rate：adj.最上等的
+
+dragonfly：蜻蜓
+
+eliminate：v.根除；把……排除在外；杀害
+
+don't you dare：千万不要做
+
+fly：苍蝇
+
+resistant：adj.有抵抗力的，抵制的，反抗的
+
+scout：侦察兵
+
+forage：v.觅食，搜寻；n.饲料；搜索
+
+odour：n.（尤指难闻的）气味，臭味；意味，迹象；名声
+
+clues：n.线索
+
+elaborate：adj.精心制作的
+
+compass：n.指南针
+
+confined：adj.有限的，受限制的；v.限制；关押
+
+await：v.等待，期待；将发生在，将降临到
+
+kick off with：以……开始
+
+mime：n/v.哑剧表演，假唱
+
+
+
+## 9.18
+
+confess：承认
+
+therapy：n.治疗；心理治疗；对身心健康有益的活动
+
+localise：使地方化；定位；集中
 
 # 口语
 
@@ -557,6 +647,10 @@ dock：n.码头，月台，泊位，v.停船进港，靠码头
 The line graph compares …… in terms of ……
 
 company A produced …… ， while companies B and C produced …… and …… respectively
+
+
+
+
 
 
 
@@ -861,7 +955,7 @@ set good examples
 
 habitual offenders
 
-potentiao criminals
+ppotentialcriminals
 
 victims
 
@@ -993,7 +1087,7 @@ suburban areas
 - 阻碍：hinder
 - the continuous/excessive/extensive use of
 - chemicals / pesticides / fungicide / insecticide
-- agricultural crops
+- crops
 - pose a threat to / threaten
 
 - 人力资源：human resources
@@ -1014,4 +1108,42 @@ suburban areas
 - 沉迷于：indulge oneself in / be addicted to 
 
 
+
+
+
+## Omar语法课
+
+there is evidence to show that
+
+traffic congestions
+
+are of great importance/significance = is important/significant to
+
+excessive use：过度使用
+
+from different perspectives/angles
+
+despite+名词 = in spite of
+
+despite
+
+underestimate：低估 overestimate：高估
+
+接受培训教育：receive
+
+适应：adapt to/adjust themselves to
+
+ reach 直接加数字 = arrive at
+
+ economic：adj.经济的
+
+- economical：adj.实惠的
+
+drawbacks/disappointed 
+
+mechanization：机械化
+
+infrastructure：基础设施
+
+1：17：00
 
